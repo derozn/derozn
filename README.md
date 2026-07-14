@@ -39,4 +39,3 @@
 [![Email](https://img.shields.io/badge/Email-nick@iamnick.dev-F3A712?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nick@iamnick.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nickderozarieux)
 
-<sub>🎠 Roll up, roll up — step right into the code.</sub>
