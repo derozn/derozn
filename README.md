@@ -1,4 +1,9 @@
-<img align="right" width="300" src="./avatar.svg" alt="Pixel-art portrait of Nick de Rozarieux" />
+<table>
+<tr>
+<td width="340" valign="middle">
+<img src="./avatar.png" width="320" alt="Circle-cluster portrait of Nick de Rozarieux" />
+</td>
+<td valign="middle">
 
 # Hey, I'm Nick 👋
 
@@ -6,11 +11,13 @@
 
 - 🎪 Building [**iamnick.dev**](https://iamnick.dev) — a scroll-driven 3D carnival portfolio in React Three Fiber
 - 🛠️ Leading engineering at [**Travelex**](https://travelex.com)
-- 🧪 Happiest at the intersection of performance, delightful UX, and WebGL
-- 💬 Ask me about React, TypeScript, Three.js, or shipping ambitious front-ends without melting the frame budget
-- 🖼️ Yes, that portrait is hand-clustered pixels — 6,400 of them, rendered as vectors
+- 🧪 Happiest where performance, delightful UX and WebGL meet
+- 💬 Ask me about React, TypeScript, Three.js, or shipping ambitious front-ends
+- 🖼️ Yes, that portrait is ~20,000 clustered circles, generated from a photo
 
-<br clear="right" />
+</td>
+</tr>
+</table>
 
 ### 🧰 Tech I reach for
 
@@ -36,3 +43,4 @@
 [![Email](https://img.shields.io/badge/Email-nick@iamnick.dev-F3A712?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nick@iamnick.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nickderozarieux)
 
+<sub>🎠 Roll up, roll up — step right into the code.</sub>
