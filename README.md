@@ -24,16 +24,22 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-black?style=flat-square&logo=three.js&logoColor=white)
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon)
 ![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)
+
 ![Datadog](https://img.shields.io/badge/-Datadog-05122A?style=flat&logo=datadog)
 ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
+
 ![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)
+
 
 ### 📊 GitHub in numbers
 
