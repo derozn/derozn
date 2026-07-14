@@ -1,3 +1,5 @@
+<img align="right" width="300" src="./avatar.svg" alt="Pixel-art portrait of Nick de Rozarieux" />
+
 # Hey, I'm Nick 👋
 
 **Lead Software Engineer** in London who likes making the web feel a little more alive — 3D, motion, and the boring reliability that makes it all actually ship.
@@ -6,8 +8,9 @@
 - 🛠️ Leading engineering at [**Travelex**](https://travelex.com)
 - 🧪 Happiest at the intersection of performance, delightful UX, and WebGL
 - 💬 Ask me about React, TypeScript, Three.js, or shipping ambitious front-ends without melting the frame budget
+- 🖼️ Yes, that portrait is hand-clustered pixels — 6,400 of them, rendered as vectors
 
----
+<br clear="right" />
 
 ### 🧰 Tech I reach for
 
@@ -22,16 +25,10 @@
 ![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
----
-
 ### 📊 GitHub in numbers
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=derozn&show_icons=true&hide_border=true&title_color=E4572E&icon_color=F3A712&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="Nick's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derozn&layout=compact&langs_count=8&hide_border=true&title_color=E4572E&text_color=c9d1d9&bg_color=0d1117&hide=liquid,html" alt="Top languages" />
-</p>
-
----
+![Followers](https://img.shields.io/github/followers/derozn?style=flat-square&logo=github&logoColor=white&color=E4572E&labelColor=0d1117)
+![Profile views](https://komarev.com/ghpvc/?username=derozn&style=flat-square&color=E4572E&label=Profile+views)
 
 ### 🤝 Find me
 
