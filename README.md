@@ -50,5 +50,5 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-iamnick.dev-E4572E?style=for-the-badge&logo=safari&logoColor=white)](https://iamnick.dev)
 [![Email](https://img.shields.io/badge/Email-nick@iamnick.dev-F3A712?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nick@iamnick.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nickderozarieux)
-[![Kent.careers](https://img.shields.io/badge/side-project)](https://kent.careers/)
+[![KentCareers](https://img.shields.io/badge/Project-Kent.careers-E4572E?style=for-the-badge)](https://kent.careers/)
 
